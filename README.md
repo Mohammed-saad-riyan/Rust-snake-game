@@ -21,7 +21,6 @@ cd snake_game
 cargo run --release
 
 🛠️ Development
-# Debug build
 cargo build
 cargo build --release
 RUST_LOG=debug cargo run
